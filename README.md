@@ -12,5 +12,5 @@
     - &#127868; 베이비 시터 & 부모님 매칭 서비스 (step03_baby)
     - Project Kwon Sitter  [Notion]()   
 - [x] 2020.12.14
-    - &#128132; 화장품 성분 중 유해성분 조회 서비스 (step09_JPAProject)
+    - &#128132; 화장품 유해성분 조회 서비스 (step09_JPAProject)
     - Project Cosmetics JPA/JPQL  [Notion](https://www.notion.so/Project-Kwon-Sitter-f9fe5f9fc7c34f82b42e4b048f02b644)
