@@ -6,14 +6,14 @@
 ## History
 
 - [x] 2020.11.18
-* 동물병원 DB 구현
+* 동물병원 DB 구현 (step13_animalHospital)
     - Miniproject01_AnimalHospital
     - [해당 프로젝트 Notion](https://www.notion.so/75c5281df7dc44da971cb17eab5d9dcf)
 - [x] 2020.12.04
-* 베이비 시터 & 부모님 매칭 서비스
+* 베이비 시터 & 부모님 매칭 서비스 (step03_baby)
     - Project Kwon Sitter 
     - [해당 프로젝트 Notion]()
 - [x] 2020.12.14
-* 화장품 성분 중 유해성분 조회 서비스
+* 화장품 성분 중 유해성분 조회 서비스 (step09_JPAProject)
     - Project Cosmetics JPA/JPQL 
     - [해당 프로젝트 Notion](https://www.notion.so/Project-Kwon-Sitter-f9fe5f9fc7c34f82b42e4b048f02b644)
