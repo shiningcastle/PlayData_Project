@@ -1,4 +1,4 @@
-# PlayData_Project
+# PlayData_Project (20.11.02 ~ 21.04.26)
 
     플레이 데이터에서 참여했었던 프로젝트!!
 
