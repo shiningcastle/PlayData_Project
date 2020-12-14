@@ -15,4 +15,4 @@
     
 - [x] 2020.12.14
     - &#128132; 화장품 유해성분 조회 서비스 (step09_JPAProject)
-    - Project Cosmetics JPA/JPQL  [Notion](https://www.notion.so/Playdata-Project-JPA-JPQL-c56be3efca3e41cda77ddbd484f70fe6)
+    - Project Cosmetics JPA  [Notion](https://www.notion.so/Playdata-Project-JPA-JPQL-c56be3efca3e41cda77ddbd484f70fe6)
