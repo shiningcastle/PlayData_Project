@@ -1,3 +1,19 @@
 # PlayData_Project
 
-플레이데이터에서 참여했던 프로젝트 모음!
+    플레이 데이터에서 참여했었던 프로젝트!!
+
+
+## History
+
+- [x] 2020.11.18
+* 동물병원 DB 구현
+    - Miniproject01_AnimalHospital
+    - [해당 프로젝트 Notion](https://www.notion.so/75c5281df7dc44da971cb17eab5d9dcf)
+- [x] 2020.12.04
+* 베이비 시터 & 부모님 매칭 서비스
+    - Project Kwon Sitter 
+    - [해당 프로젝트 Notion]()
+- [x] 2020.12.14
+* 화장품 성분 중 유해성분 조회 서비스
+    - Project Cosmetics JPA/JPQL 
+    - [해당 프로젝트 Notion](https://www.notion.so/Project-Kwon-Sitter-f9fe5f9fc7c34f82b42e4b048f02b644)
