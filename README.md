@@ -16,3 +16,8 @@
 - [x] 2020.12.14
     - &#128132; 화장품 유해성분 조회 서비스 (step09_JPAProject)
     - Project Cosmetics JPA  [Notion](https://www.notion.so/Playdata-Project-JPA-JPQL-c56be3efca3e41cda77ddbd484f70fe6)
+
+- [x] 2021.01.12
+    - &#128176; 알바구인 리뷰 사이트 (WORKMAN_BLIND)
+    - Project WORKMAN_BLIND  [Readme](https://github.com/WORKMAN-BLIND/WORKMAN_BLIND)
+
