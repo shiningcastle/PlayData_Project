@@ -6,7 +6,7 @@
 ## History
 
 - [x] 2020.11.18
-    - &#128571; 동물병원 DB 구현 (step13_animalHospital)
+    - 🐶 동물병원 DB 구현 (step13_animalHospital)
     - Miniproject01_AnimalHospital  [Notion](https://www.notion.so/75c5281df7dc44da971cb17eab5d9dcf)
     
 - [x] 2020.12.04
