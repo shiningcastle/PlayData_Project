@@ -25,7 +25,7 @@
     <br>
 
 - [x] 2021.01.12
-    - &#128170; 알바구인 리뷰 사이트 (WORKMAN_BLIND)
+    - 🤑 알바구인 리뷰 사이트 (WORKMAN_BLIND)
     - Project WORKMAN_BLIND  [Readme](https://github.com/WORKMAN-BLIND/WORKMAN_BLIND)
     
     <br>
