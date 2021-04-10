@@ -32,7 +32,7 @@
     
 - [x] 2021.02.22
     - 💻️ 개발자들을 위한 플랫폼 (GAEPOM)
-    - PlatForm for Developers  [Github](https://github.com/adevep/GAEPOM)
+    - PlatForm for Developers  [Readme](https://github.com/adevep/GAEPOM)
     
     <br>
 
