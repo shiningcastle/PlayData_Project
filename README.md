@@ -8,7 +8,7 @@
 
 - [x] 2020.11.18
     - 🐶 동물병원 DB 구현 (step13_animalHospital)
-    - Miniproject01_AnimalHospital  [Notion](https://www.notion.so/75c5281df7dc44da971cb17eab5d9dcf)
+    - Project Animal Hospital  [Notion](https://www.notion.so/75c5281df7dc44da971cb17eab5d9dcf)
     
     <br>
     
@@ -26,7 +26,7 @@
 
 - [x] 2021.01.12
     - 🤑 알바구인 리뷰 사이트 (WORKMAN_BLIND)
-    - Project WORKMAN_BLIND  [Readme](https://github.com/WORKMAN-BLIND/WORKMAN_BLIND)
+    - Project WORKMAN BLIND  [Readme](https://github.com/WORKMAN-BLIND/WORKMAN_BLIND)
     
     <br>
     
