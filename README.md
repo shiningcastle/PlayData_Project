@@ -37,7 +37,7 @@
     <br>
 
 - [x] 2021.04.21
-    - 💯 온라인 학습 케어 서비스(Educare)
+    - 💯 온라인 학습 케어 서비스 (Educare)
     - Project Educare  [Readme](https://github.com/2021PlaydataFinalProject/EduCare)
     
     <br>
