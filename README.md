@@ -32,7 +32,12 @@
     
 - [x] 2021.02.22
     - 💻️ 개발자들을 위한 플랫폼 (GAEPOM)
-    - PlatForm for Developers  [Readme](https://github.com/adevep/GAEPOM)
+    - Project Gaepom  [Readme](https://github.com/adevep/GAEPOM)
     
     <br>
 
+- [x] 2021.04.21
+    - 💯 온라인 학습 케어 서비스(Educare)
+    - Project Educare  [Readme](https://github.com/2021PlaydataFinalProject/EduCare)
+    
+    <br>
